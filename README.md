@@ -44,7 +44,7 @@ How to use it?
 						   
 						   
 		  input.txt----\   ###############
-						         > # hillencrypt # ---------> encryption_of_input.txt
+		                 > # hillencrypt # ---------> encryption_of_input.txt
 		       keys----/   ###############
 		  
 		  Synopsis -
